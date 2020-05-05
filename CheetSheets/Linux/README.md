@@ -21,6 +21,13 @@
 
 **[More Resources](#more-resources)**
 
+**[Other Related Linux Areas](#Other-Related-Linux-Areas)**
+
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+
 ---
 
 
@@ -233,3 +240,6 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 - [Linux Commands](https://linoxide.com/tag/command/)
 - [Linux Commands Cheat Sheet in Black & White](https://linoxide.com/linux-command/linux-commands-cheat-sheet/)
 - [Linux: Using CheatSheets To Apply Best Practices](https://cheatsheet.dennyzhang.com/category/linux)
+
+
+# Other Related Linux Areas
