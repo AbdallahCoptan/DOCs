@@ -24,6 +24,7 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 
 ## System
 
+|-------------------	|-------------------------------------------------------------------	|
 | `uname`            	|  Displays  Linux system information                                  	|
 | `uname -r`         	| Displays  kernel release information                                 	|
 | `uptime`           	| Displays how long the system has been running including load average 	|
@@ -39,6 +40,7 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 
 ## Hardware
 
+|-------------------------------	|---------------------------------------------------------------------------	|
 | `dmesg`                       	| Displays bootup messages                                                     	|
 | `cat /proc/cpuinfo`           	| Displays more information about CPU e.g model, model name, cores, vendor id  	|
 | `cat /proc/meminfo`           	| Displays more information about hardware memory e.g. Total and Free memory   	|
@@ -54,7 +56,6 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 
 ## Users
 
-|                   	|                                                                   	|
 |-------------------	|-------------------------------------------------------------------	|
 | `id`                	| Displays the details of the active user e.g. uid, gid, and groups 	|
 | `last`              	| Shows the last logins in the system                               	|
