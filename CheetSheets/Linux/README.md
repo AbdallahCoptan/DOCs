@@ -23,7 +23,7 @@
 In the Linux cheat sheet Commands are categorized into different sections according to its usage. We have designed the command in white color with black background as we often use on Linux shell. 
 
 ## System
-
+| Command           	| Description                                                       	|
 |-------------------	|-------------------------------------------------------------------	|
 | `uname`            	|  Displays  Linux system information                                  	|
 | `uname -r`         	| Displays  kernel release information                                 	|
@@ -40,6 +40,7 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 
 ## Hardware
 
+| Command      				      	| Description                              			                         	|
 |-------------------------------	|---------------------------------------------------------------------------	|
 | `dmesg`                       	| Displays bootup messages                                                     	|
 | `cat /proc/cpuinfo`           	| Displays more information about CPU e.g model, model name, cores, vendor id  	|
@@ -56,6 +57,7 @@ In the Linux cheat sheet Commands are categorized into different sections accord
 
 ## Users
 
+| Command           	| Description                                                       	|
 |-------------------	|-------------------------------------------------------------------	|
 | `id`                	| Displays the details of the active user e.g. uid, gid, and groups 	|
 | `last`              	| Shows the last logins in the system                               	|
