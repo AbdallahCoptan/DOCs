@@ -38,6 +38,7 @@
 In the Linux cheat sheet Commands are categorized into different sections according to its usage. We have designed the command in white color with black background as we often use on Linux shell. 
 
 ## System
+
 | Command           	| Description                                                       	|
 |-------------------	|-------------------------------------------------------------------	|
 | `uname`            	|  Displays  Linux system information                                  	|
