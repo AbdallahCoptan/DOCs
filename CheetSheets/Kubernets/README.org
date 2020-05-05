@@ -256,11 +256,12 @@ File me [[https://github.com/dennyzhang/cheatsheet.dennyzhang.com/issues][Issues
 | [[https://kubernetes.io/docs/reference/setup-tools/kubefed/kubefed/][kubefed]]               | the command line to control a Kubernetes Cluster Federation |
 | Kubernetes Components | [[https://kubernetes.io/docs/concepts/overview/components/][Link: Kubernetes Components]]                                 |
 ** More Resources
-License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 https://codefresh.io/kubernetes-guides/kubernetes-cheat-sheet/
+
+https://gist.github.com/tuannvm/4e1bcc993f683ee275ed36e67c30ac49
 
 #+BEGIN_HTML
 <a href="https://www.linkedin.com/in/dennyzhang001"><img align="bottom" src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>

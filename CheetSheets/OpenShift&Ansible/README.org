@@ -331,7 +331,9 @@ https://docs.openshift.com/online/architecture/index.html
 
 https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet
 
+** OpenShift
 
+http://www.mastertheboss.com/soa-cloud/openshift/openshift-cheatsheet
 
 
 
