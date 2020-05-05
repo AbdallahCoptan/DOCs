@@ -1,4 +1,4 @@
-![Preview](./images/git&github.png)
+![Preview](./git&github.png)
 
 #### Table Of Contents
 
