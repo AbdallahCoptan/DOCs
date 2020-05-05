@@ -233,6 +233,7 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 ### More Resources:
 
 - [Other Sheets](https://cheatsheet.dennyzhang.com/cheatsheet-git-A4)
+- [Git & Git process chart](https://sites.google.com/site/mrxpalmeiras/git)
 
 **Thank you for visiting 😊, Keep Learning 🤘**
 
