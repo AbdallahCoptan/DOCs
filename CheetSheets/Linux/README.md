@@ -19,7 +19,7 @@
 - [File Transfer](#File-Transfer)
 - [Directory Traverse](#Directory-Traverse)
 
-**[More Resources](#more-resources)
+**[More Resources](#more-resources)**
 ---
 
 
