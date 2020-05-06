@@ -1,15 +1,15 @@
 [![Licence](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 ![By AbdallahCoptan](https://img.shields.io/badge/by-AbdallahCoptan-blue.svg) [![github](https://img.shields.io/badge/git-github-lightgray.svg)](https://github.com/AbdallahCoptan/docs) [![Issues](https://img.shields.io/badge/issues-github-green.svg)](https://github.com/AbdallahCoptan/docs/issues)
 
-         _____   ____   _____     
-        |  __ \ / __ \ / ____|    
-        | |  | | |  | | |     ___ 
-        | |  | | |  | | |    / __|
-        | |__| | |__| | |____\__ \
-        |_____/ \____/ \_____|___/
+                                   _____   ____   _____     
+                                  |  __ \ / __ \ / ____|    
+                                  | |  | | |  | | |     ___ 
+                                  | |  | | |  | | |    / __|
+                                  | |__| | |__| | |____\__ \
+                                  |_____/ \____/ \_____|___/
                                   
                                   
-       Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
+                 Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
 
 Guide for installing and configuring my devices, projects, libraries, and packages
 

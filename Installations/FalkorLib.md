@@ -1,9 +1,13 @@
+```
 		                    _____     _ _              _     _ _
 		                   |  ___|_ _| | | _____  _ __| |   (_) |__
 		                   | |_ / _` | | |/ / _ \| '__| |   | | '_ \
 		                   |  _| (_| | |   < (_) | |  | |___| | |_) |
 		                   |_|  \__,_|_|_|\_\___/|_|  |_____|_|_.__/
 
+	 Installation Copyright @ 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisco@gmail.com>
+
+```
 
 Falkor is a Common library to share Ruby code and {rake,cap} tasks.
 
@@ -31,7 +35,7 @@ You need to install first:
 
 To verify that the installation it was successful run the following command which will print the Ruby version:
 
-`$> ruby --version`
+``` $> ruby --version ```
 
 The output will look something like this:
 
@@ -56,7 +60,7 @@ $> sudo gem install bundler
 
  3. Initiate a `Gemfile` which will help you to install the dependencies, by:
 
- `$> bundle init`
+ ``` $> bundle init ```
 
  4. Specify your dependencies in a [Gemfile](https://bundler.io/gemfile.html): 
 
@@ -72,11 +76,11 @@ gem 'falkorlib', '~> 0.8.6'
 
 5. Install all of the required gems from your specified sources (installing the Flakor Lib):
 
-`$> bundle install ` 
+``` $> bundle install ``` 
 
 or only 
 
-`$> bundle`
+``` $> bundle ```
 
 
 
@@ -90,7 +94,7 @@ Or install it yourself as:
 
 To verify that the installation it was successful run the following command which will print the `falkor` libarary version:
 
-`$> falkor --version`
+``` $> falkor --version ```
 
 The output will look something like this:
 
@@ -106,7 +110,7 @@ $> Falkor[Lib] version 0.8.6
 
 ## Falkor lib Commands
 
-Here it a summary of the commands:
+Here it is a summary of the commands:
 
 ```
 $> falkor
