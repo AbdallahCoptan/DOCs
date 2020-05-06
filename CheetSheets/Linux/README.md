@@ -1,5 +1,9 @@
 ![Preview](./linux.png)
 
+
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+
+
 #### Table Of Contents
 
 **[Linux command cheat sheet](#Linux-command-cheat-sheet)**
