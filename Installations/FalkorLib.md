@@ -35,7 +35,12 @@ You need to install first:
 
 To verify that the installation it was successful run the following command which will print the Ruby version:
 
-``` $> ruby --version ```
+```
+ 
+ $> ruby --version
+
+
+```
 
 The output will look something like this:
 
@@ -60,7 +65,11 @@ $> sudo gem install bundler
 
  3. Initiate a `Gemfile` which will help you to install the dependencies, by:
 
- ``` $> bundle init ```
+ ``` 
+
+ $> bundle init 
+
+ ```
 
  4. Specify your dependencies in a [Gemfile](https://bundler.io/gemfile.html): 
 
@@ -76,11 +85,19 @@ gem 'falkorlib', '~> 0.8.6'
 
 5. Install all of the required gems from your specified sources (installing the Flakor Lib):
 
-``` $> bundle install ``` 
+``` 
+
+$> bundle install 
+
+``` 
 
 or only 
 
-``` $> bundle ```
+``` 
+
+$> bundle 
+
+```
 
 
 
@@ -89,12 +106,20 @@ or only
 
 Or install it yourself as:
 
-`$> sudo gem install falkorlib`
+``` 
+
+$> sudo gem install falkorlib
+
+```
 
 
 To verify that the installation it was successful run the following command which will print the `falkor` libarary version:
 
-``` $> falkor --version ```
+``` 
+
+$> falkor --version 
+
+```
 
 The output will look something like this:
 
