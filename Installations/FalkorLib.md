@@ -25,12 +25,10 @@ You need to install first:
  1. the [ruby](https://linuxize.com/post/how-to-install-ruby-on-ubuntu-18-04/) development environment by:
 
  
- ```
-
+ ```bash
  $> sudo apt update
  $> sudo apt-get install ruby-dev [ruby]
  $> sudo apt install ruby-full
-
  ```
 
 To verify that the installation it was successful run the following command which will print the Ruby version:
