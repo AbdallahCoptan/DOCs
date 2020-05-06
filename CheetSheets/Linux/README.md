@@ -1,8 +1,6 @@
 ![Preview](./linux.png)
 
 
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-
 
 #### Table Of Contents
 
