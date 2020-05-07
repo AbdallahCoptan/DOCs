@@ -1,3 +1,5 @@
+![Preview](./imgs/windows-10.png)
+
 ```
 		__        _____ _   _ _  ___    _        _   _            _   _             
 		\ \      / /_ _| \ | / |/ _ \  / \   ___| |_(_)_   ____ _| |_(_) ___  _ __  
@@ -22,11 +24,11 @@ Activation Copyright (C) 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisc
 
 `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
 
-#### Home/Core (C.S) 
+#### Home/Core (Country Spacific) 
 
 `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR`
 
-#### Home/Core (S.L)                  
+#### Home/Core (Single Language)                  
 
 `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH `
 
@@ -77,6 +79,10 @@ Activation Copyright (C) 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisc
 
 
 ## Cmd Commands :
+
+After opening the `cmd` as administrator, by opening the `start menue` then , `windows system` then, `Command prompt`.
+By right click on it, choose `run as admin`, and go ahead with the following commands: 
+
 
 ```bash
 
