@@ -1,10 +1,10 @@
 ```
-	__        _____ _   _ _  ___    _        _   _            _   _             
-	\ \      / /_ _| \ | / |/ _ \  / \   ___| |_(_)_   ____ _| |_(_) ___  _ __  
-	 \ \ /\ / / | ||  \| | | | | |/ _ \ / __| __| \ \ / / _` | __| |/ _ \| '_ \ 
-	  \ V  V /  | || |\  | | |_| / ___ \ (__| |_| |\ V / (_| | |_| | (_) | | | |
-	   \_/\_/  |___|_| \_|_|\___/_/   \_\___|\__|_| \_/ \__,_|\__|_|\___/|_| |_|
-	                                                                            
+		__        _____ _   _ _  ___    _        _   _            _   _             
+		\ \      / /_ _| \ | / |/ _ \  / \   ___| |_(_)_   ____ _| |_(_) ___  _ __  
+		 \ \ /\ / / | ||  \| | | | | |/ _ \ / __| __| \ \ / / _` | __| |/ _ \| '_ \ 
+		  \ V  V /  | || |\  | | |_| / ___ \ (__| |_| |\ V / (_| | |_| | (_) | | | |
+		   \_/\_/  |___|_| \_|_|\___/_/   \_\___|\__|_| \_/ \__,_|\__|_|\___/|_| |_|
+		                                                                            
 
 Activation Copyright (C) 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisco@gmail.com>
 
@@ -80,9 +80,9 @@ Activation Copyright (C) 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisc
 
 ```bash
 
-   cscript slmgr.vbs /upk
-   cscript slmgr.vbs /ipk <Product Key According To Your Edition>
-   cscript slmgr.vbs /skms kms.lotro.cc
-   cscript slmgr.vbs /ato
+   $> cscript slmgr.vbs /upk
+   $> cscript slmgr.vbs /ipk <Product Key According To Your Edition>
+   $> cscript slmgr.vbs /skms kms.lotro.cc
+   $> cscript slmgr.vbs /ato
 
 ```
