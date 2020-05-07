@@ -1,63 +1,72 @@
-# Windows 10 Activation C. Script
-===================================
 
-**Windows 10 Supported Editions**
+
+							\ \      / /_ _| \ | / |/ _ \  / \   ___| |_(_)_   ____ _| |_(_) ___  _ __  
+							 \ \ /\ / / | ||  \| | | | | |/ _ \ / __| __| \ \ / / _` | __| |/ _ \| '_ \ 
+							  \ V  V /  | || |\  | | |_| / ___ \ (__| |_| |\ V / (_| | |_| | (_) | | | |
+							   \_/\_/  |___|_| \_|_|\___/_/   \_\___|\__|_| \_/ \__,_|\__|_|\___/|_| |_|
+
+					Activation Copyright (C) 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisco@gmail.com>
+
+# Windows 10 Activation C. Script
+
 
 ## Product Keys
 
-### Home/Core 
+**Windows 10 Supported Editions**
+
+#### Home/Core 
 
 `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99`
 
-### Home/Core (C.S) 
+#### Home/Core (C.S) 
 
 `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR`
 
-### Home/Core (S.L)                  
+#### Home/Core (S.L)                  
 
 `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH `
 
-### Home/Core N                        
+#### Home/Core N                        
 
 `3KHY7-WNT83-DGQKR-F7HPR-844BM` 
 
-### Professional                          
+#### Professional                          
 
 `W269N-WFGWX-YVC9B-4J6C9-T83GX`
 
-### Professional N
+#### Professional N
 
 `MH37W-N47XK-V7XM9-C7227-GCQG9`
 
-### Enterprise                 
+#### Enterprise                 
                
 `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 
-### Enterprise N                           
+#### Enterprise N                           
 
 `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4`
 
-### Education                                
+#### Education                                
 
 `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2`
 
-### Education N                           
+#### Education N                           
 
 `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ`
 
-### Enterprise 2015 (LTSB)
+#### Enterprise 2015 (LTSB)
 
 `WNMTR-4C88C-JK8YV-HQ7T2-76DF9`
 
-### Enterprise 2015 (LTSB N)
+#### Enterprise 2015 (LTSB N)
 
 `2F77B-TNFGY-69QQF-B8YKP-D69TJ`
 
-### Enterprise 2016 (LTSB)
+#### Enterprise 2016 (LTSB)
 
 `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ`
 
-### Enterprise 2016 (LTSB N)        
+#### Enterprise 2016 (LTSB N)        
 
 `QFFDN-GRT3P-VKWWX-X7T3R-8B639`
 
