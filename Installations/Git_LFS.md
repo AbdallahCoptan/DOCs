@@ -1,3 +1,14 @@
+![Preview](./imgs/gitlfs.gif)
+
+```						  ____ _ _        _     _____ ____  
+						 / ___(_) |_     | |   |  ___/ ___| 
+						| |  _| | __|____| |   | |_  \___ \ 
+						| |_| | | ||_____| |___|  _|  ___) |
+						 \____|_|\__|    |_____|_|   |____/ 
+     
+    Installation Copyright @ 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisco@gmail.com>                            
+```
+
 # Git - Large File Systems ([git-lfs](https://git-lfs.github.com/)): For [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
 
 ### An open source Git extension for versioning large files
