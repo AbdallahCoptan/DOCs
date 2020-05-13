@@ -7,10 +7,10 @@
 		| |_| | | ||_____| |___|  _|  ___) |
 		 \____|_|\__|    |_____|_|   |____/ 
                                     
-Installation Copyright @ 2020 Abdallah Ibrahim aka AbdallahCoptan <abdallah.cisco@gmail.com>                            
+Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>                            
 ```
 
-# Git - Large File Systems ([git-lfs](https://git-lfs.github.com/)): For [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
+# Git - Large File Storage ([git-lfs](https://git-lfs.github.com/)): For [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
 
 ### An open source Git extension for versioning large files
 Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise. [Git LFS](https://packagecloud.io/github/git-lfs) keeps a file pointer for the files greater than 100 Mb, and keep the source of theses files on the cloud. These pointers are refereing to the location for these files and once the repository is cloned, they are downloaded directly as normal.
