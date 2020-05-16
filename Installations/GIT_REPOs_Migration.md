@@ -1,8 +1,8 @@
-![Preview](./imgs/gitmig.jpg)
+![Preview](./imgs/gitmig.jpg) ![Preview](./imgs/git_migration.jpeg)
 
-<img src="./imgs/git_migration.jpeg"
+<!-- <img src="./imgs/git_migration.jpeg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 50px; " />
+     style="float: left; margin-right: 50px; " /> -->
 
 
 
@@ -12,7 +12,7 @@
 	        | |_| || |  | |_____| |  | || | |_| |  _ <  / ___ \| |  | | |_| | |\  |
 	         \____|___| |_|     |_|  |_|___\____|_| \_\/_/   \_\_| |___\___/|_| \_|
 
-			Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
+		Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
 
 
 # Git - Migrating Repositories from/to [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
