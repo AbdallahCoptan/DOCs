@@ -158,3 +158,6 @@ $> git push --all
 
 **For more information, please check [Configuring remotes](https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/).**
 
+### 2. Migrating The `repo:DOCs` from Github to Gitlab
+
+**You need to follow the same instructions, by just switch between names and directions, this also can be used to migrate from or to Bitbucks!!**
