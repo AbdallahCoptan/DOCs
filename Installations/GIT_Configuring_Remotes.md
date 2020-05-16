@@ -1,12 +1,16 @@
 ![Preview](./imgs/gitsyn.jpeg)
 
+```
   ____ _ _       ____                   _                     _     
  / ___(_) |_    / ___| _   _ _ __   ___| |__  _ __ ___  _ __ (_)____
 | |  _| | __|___\___ \| | | | '_ \ / __| '_ \| '__/ _ \| '_ \| |_  /
 | |_| | | ||_____|__) | |_| | | | | (__| | | | | | (_) | | | | |/ / 
  \____|_|\__|   |____/ \__, |_| |_|\___|_| |_|_|  \___/|_| |_|_/___|
                        |___/                                        
+
 Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
+
+```
 
 # Git Configuring Remotes: on [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
 
