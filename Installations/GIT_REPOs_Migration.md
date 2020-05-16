@@ -1,4 +1,4 @@
-![Preview](./imgs/git_migration.jpeg)
+![Preview](./imgs/gitmig.jpg)
 
 <img src="./imgs/git_migration.jpeg"
      alt="Markdown Monster icon"
