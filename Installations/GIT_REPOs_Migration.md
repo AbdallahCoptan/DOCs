@@ -1,6 +1,6 @@
-![Preview](./imgs/gitmig.jpg) ![Preview](./imgs/git_migration.jpeg)
+<!-- ![Preview](./imgs/gitmig.jpg) ![Preview](./imgs/git_migration.jpeg) -->
 
-<img src="./imgs/gitmig.jpg" width="425"/> <img src="./imgs/git_migration.jpeg" width="450"/> 
+<img src="./imgs/gitmig.jpg" width="450"/> <img src="./imgs/git_migration.jpeg" width="450"/> 
 
 <!-- <img src="./imgs/git_migration.jpeg"
      alt="Markdown Monster icon"
