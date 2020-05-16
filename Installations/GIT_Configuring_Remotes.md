@@ -1,5 +1,13 @@
 ![Preview](./imgs/gitsyn.jpeg)
 
+  ____ _ _       ____                   _                     _     
+ / ___(_) |_    / ___| _   _ _ __   ___| |__  _ __ ___  _ __ (_)____
+| |  _| | __|___\___ \| | | | '_ \ / __| '_ \| '__/ _ \| '_ \| |_  /
+| |_| | | ||_____|__) | |_| | | | | (__| | | | | | (_) | | | | |/ / 
+ \____|_|\__|   |____/ \__, |_| |_|\___|_| |_|_|  \___/|_| |_|_/___|
+                       |___/                                        
+Copyright (c) 2020 Abdallah Ibrahim <abdallah.cisco@gmail.com>
+
 # Git Configuring Remotes: on [Github](https://github.com/), [Gitlab](https://about.gitlab.com/), and [Bitbucket](https://bitbucket.org/product/)
 
 This document helps you to know how to synchronize your repositories on Gitlab, Github, and Bitbucket together from one  single repository. This will Keep in synchronizing your Git repos on GitHub, GitLab & Bitbucket.
@@ -185,12 +193,12 @@ Now you can use `git push` to push to all remotes and use `git pull --all` to pu
 - [The “fatal: refusing to merge unrelated histories” Git error](https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
 - [How To Push Git Branch To Remote](https://devconnected.com/how-to-push-git-branch-to-remote/)
 - [How To Remove Files From Git Commit](https://devconnected.com/how-to-remove-files-from-git-commit/)
--[How to Synchronize Two Remote Git Repositories.](https://medium.com/@_oleksii_/how-to-synchronize-two-remote-git-repositories-e63b78892901)
--[How to keep two Git repositories in sync](https://www.opentechguides.com/how-to/article/git/177/git-sync-repos.html)
--[Keeping Local Repos in Sync With Open Source GitHub Repos](https://victorops.com/blog/keeping-local-repos-in-sync-with-open-source-github-repos)
--[Syncing repositories](https://backlog.com/git-tutorial/syncing-repositories/)
--[Working with Git remotes and pushing to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
--[git syncing](https://www.atlassian.com/git/tutorials/syncing)
+- [How to Synchronize Two Remote Git Repositories.](https://medium.com/@_oleksii_/how-to-synchronize-two-remote-git-repositories-e63b78892901)
+- [How to keep two Git repositories in sync](https://www.opentechguides.com/how-to/article/git/177/git-sync-repos.html)
+- [Keeping Local Repos in Sync With Open Source GitHub Repos](https://victorops.com/blog/keeping-local-repos-in-sync-with-open-source-github-repos)
+- [Syncing repositories](https://backlog.com/git-tutorial/syncing-repositories/)
+- [Working with Git remotes and pushing to multiple Git repositories](https://jigarius.com/blog/multiple-git-remote-repositories)
+- [git syncing](https://www.atlassian.com/git/tutorials/syncing)
 
 
 
