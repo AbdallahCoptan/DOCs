@@ -1,6 +1,6 @@
 ![Preview](./imgs/gitmig.jpg) ![Preview](./imgs/git_migration.jpeg)
 
-<img src="./imgs/gitmig.jpg" width="425"/> <img src="./imgs/git_migration.jpeg" width="500"/> 
+<img src="./imgs/gitmig.jpg" width="425"/> <img src="./imgs/git_migration.jpeg" width="450"/> 
 
 <!-- <img src="./imgs/git_migration.jpeg"
      alt="Markdown Monster icon"
@@ -160,4 +160,4 @@ $> git push --all
 
 ### 2. Migrating The `repo:DOCs` from Github to Gitlab
 
-**You need to follow the same instructions, by just switch between names and directions, this also can be used to migrate from or to Bitbucks!!**
+**You need to follow the same instructions, by just switching between names and directions, this also can be used to migrate from or to Bitbucks!!**
