@@ -2,7 +2,7 @@
 
 <img src="./imgs/git_migration.jpeg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; " />
+     style="float: left; margin-right: 50px; " />
 
 
 
