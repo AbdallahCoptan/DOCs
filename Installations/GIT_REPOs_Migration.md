@@ -820,8 +820,8 @@ $> git push <SSH for the remote ob GITHUB>
 
 ```
     1. push normally in the original repo
-    2. pull changes in the `--mirror` repo
-    3. It's better not to push to the `--mirror`, 
+    2. pull changes in the --mirror repo
+    3. It's better not to push to the --mirror, 
     4. otherwise you need to pull in a new branch and merge it, and this also may cause problems.
 ```
 
