@@ -776,7 +776,8 @@ $> git lfs migrate import --everything --verbose --include="*.wav,*.psd,*.tif, *
 $> git reflog expire --expire-unreachable=now --all && git gc --prune=now --aggressive
 ```
 
-**Optionally** add the followin line in the `git config`:
+**Optionally** add the following line in the `git config`:
+
 ```bash
 $> git config lfs.https://gitlab.uni.lu/aibrahim/test.git/info/lfs.locksverify true
 ```
@@ -786,7 +787,7 @@ Please be sure, that there is a new reo with the same name on Github.
 
 ```bash
 $> git push --mirror git@github.com:AbdallahCoptan/test.git
-$> git push --mirror git@github.com:AbdallahCoptan/test.git
+$> git push --mirror git@github.com:AbdallahCoptan/test.git <only first time>
 ```
 Now you have the gitlab repo migrated to the github repo.
 
@@ -801,7 +802,7 @@ $> git reflog expire --expire-unreachable=now --all && git gc --prune=now --aggr
 #### 6. Finally, in order to `push` the new changes to the repo on Github
 
 ```bash
-$> git remote set-url --push origin git@github.com:AbdallahCoptan/test.git
+$> git remote set-url --push origin git@github.com:AbdallahCoptan/test.git <optinal>
 $> git push --mirror
 ```
 
