@@ -194,7 +194,25 @@ After updating your files or adding more functionality, you can `push` the chang
     $> sudo python setup.py install
 ```
 
+
+# PRESEnCE Removal [Uninstall]
+
+Use this command to uninstall it globally:
+
+```bash
+    $> pip uninstall presence 
+```
+
 ----------------------------------------
+
+**Note** How to reload the terminals:
+
+```bash
+  $> bash --login [or]
+  $> . ~/.bashrc [or]
+  $> source ~/.bashrc
+```
+
 
 
 # More Resources

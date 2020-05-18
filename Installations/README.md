@@ -23,7 +23,7 @@
 - [Git - Large File Storage](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/Git_LFS.md)
 - [Git - Migrating Repositories Between Clouds](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/GIT_REPOs_Migration.md)
 - [Git - Configuring Multiple Different Remotes](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/GIT_Configuring_Remotes.md)
-- [Python Vertual Environment](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/pyVirtualEnv.md)
+- [Python Virtual Environment](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/pyVirtualEnv.md)
 - [How to activate Windows 10](https://github.com/AbdallahCoptan/DOCs/blob/master/Installations/WIN10_Activation.md)
 
 ---
