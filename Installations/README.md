@@ -8,7 +8,7 @@
      | || |\  |___) || |/ ___ \| |___| |___ / ___ \| |  | | |_| | |\  \__ \
     |___|_| \_|____/ |_/_/   \_\_____|_____/_/   \_\_| |___\___/|_| \_|___/
                                                                            
-			Read me files for all my setups and installations
+		Read me files for all my setups and installations
        Copyright (c) 2018 A. A.Z.A Ibrahim, <abdallah.cisco@gmail.com>
 
 
